@@ -17,3 +17,4 @@ echo "23062003vV"
 docker tag b0e616c28473 nirmal0110/demorepo
 docker push nirmal0110/demorepo:1.0
 docker pull nirmal0110/demorepo:1.0
+ 
